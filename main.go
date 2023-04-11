@@ -11,15 +11,15 @@ import (
 )
 
 func main() {
+	url := ""
 	t1 := time.Now()
-	url := "http://localhost:7878"
 	//open, err := imaging.Open("1.jpg")
 	//if err != nil {
 	//	panic(err)
 	//}
 	//buf := new(bytes.Buffer)
 	//imaging.Encode(buf, open, imaging.JPEG)
-	//toString := base64.StdEncoding.EncodeToString(buf.Bytes())
+	//toString := base64.StdEncoding.EncodeToString(buf.Bytes())q
 	payload := map[string]interface{}{
 		//"init_images": []interface {
 		//}{
