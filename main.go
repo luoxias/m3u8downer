@@ -13,7 +13,6 @@ import (
 func main() {
 	t1 := time.Now()
 	url := "http://localhost:7878"
-
 	//open, err := imaging.Open("1.jpg")
 	//if err != nil {
 	//	panic(err)
