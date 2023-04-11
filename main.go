@@ -11,6 +11,8 @@ import (
 )
 
 func main() {
+	url := ""
+	t1 := time.Now()
 	//open, err := imaging.Open("1.jpg")
 	//if err != nil {
 	//	panic(err)
