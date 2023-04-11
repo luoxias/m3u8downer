@@ -21,7 +21,6 @@ func main() {
 	//buf := new(bytes.Buffer)
 	//imaging.Encode(buf, open, imaging.JPEG)
 	//toString := base64.StdEncoding.EncodeToString(buf.Bytes())
-	// tag1
 	payload := map[string]interface{}{
 		//"init_images": []interface {
 		//}{
